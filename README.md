@@ -10,5 +10,5 @@ This project analyzes sales & profit trends using Tableau.
 - Superstore_Dashboard_Presentation.pptx (slides)
 - dashboard_screenshots/ (visuals)
 - README.md (this file)
--
+
 Tableau Dashboard project using superstore dataset
